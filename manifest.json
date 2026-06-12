@@ -1,0 +1,110 @@
+{
+  "name": "Memoria Histórica EIDE Fladio Álvarez Galán",
+  "short_name": "EIDE Fladio",
+  "description": "Memoria Histórica de la Escuela Integral de Deportes Fladio Álvarez Galán, Isla de la Juventud, Cuba. Cantera de campeones.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0085C7",
+  "background_color": "#FAFBFD",
+  "orientation": "portrait",
+  "categories": ["education", "sports"],
+  "lang": "es",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "resource/images/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "resource/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "La Escuela",
+      "short_name": "Escuela",
+      "description": "Historia y misión de la EIDE",
+      "url": "/#la-escuela",
+      "icons": [{ "src": "resource/images/icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "El Mártir",
+      "short_name": "Mártir",
+      "description": "Capitán Fladio Álvarez Galán",
+      "url": "/#el-martir",
+      "icons": [{ "src": "resource/images/icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Atletas",
+      "short_name": "Atletas",
+      "description": "Glorias deportivas de la EIDE",
+      "url": "/#atletas",
+      "icons": [{ "src": "resource/images/icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Resultados",
+      "short_name": "Resultados",
+      "description": "Medallero y logros",
+      "url": "/#resultados",
+      "icons": [{ "src": "resource/images/icon-96.png", "sizes": "96x96" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "resource/images/screenshot-mobile.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Pantalla principal de la Memoria Histórica"
+    },
+    {
+      "src": "resource/images/screenshot-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Vista de escritorio"
+    }
+  ]
+}
